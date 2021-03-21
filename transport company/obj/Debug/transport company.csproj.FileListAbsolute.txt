@@ -1,0 +1,2 @@
+C:\Users\OOP14\source\repos\transport company\transport company\obj\Debug\transport company.csprojAssemblyReference.cache
+C:\Users\OOP14\source\repos\transport company\transport company\obj\Debug\transport company.csproj.CoreCompileInputs.cache
